@@ -6,7 +6,7 @@ d'interagir avec l'utilisateur via des commandes vocales ou textuelles à coup d
 
 # Applications
 
-- [Alie API](https://github.com/etneuhct/alie_apix)
+- [Alie API](https://github.com/etneuhct/alie_api)
 
 Serveur Django interagit avec la BDD pour le stockage de données à long terme.
 - Alie Client
